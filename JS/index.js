@@ -5,10 +5,10 @@ function bookNow() {
 
 let photoIndex = 0;
 const photos = [
-  "../IMAGE/community photo 2.jpg",
-  "../IMAGE/community photo 3.jpg",
-  "../IMAGE/community photo 4.jpg",
-  "../IMAGE/community photo 1.jpg",
+  "IMAGE/community photo 2.jpg",
+  "IMAGE/community photo 3.jpg",
+  "IMAGE/community photo 4.jpg",
+  "IMAGE/community photo 1.jpg",
 ];
 
 function showPhoto(index) {
