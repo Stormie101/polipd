@@ -216,7 +216,7 @@ a {
 }
 
   .location-map2 img{
-    display: hidden;
+    display: none;
   }
 
 .location-info {
